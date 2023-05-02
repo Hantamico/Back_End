@@ -1,0 +1,30 @@
+<style>
+    /* установка шрифта */
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* добавление отступов для элементов формы */
+form {
+    margin: 20px;
+}
+
+label {
+    margin-right: 10px;
+}
+
+input[type="text"] {
+    margin-right: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid gray;
+}
+
+input[type="submit"] {
+    background-color: lightblue;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
